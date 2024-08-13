@@ -1,6 +1,6 @@
 Firstly, you need to execute that commands:
 
-chmod +x requirements.sh
+chmod +x requirements.sh &&
 ./requirements.sh &&
 chmod +x main.sh
 
