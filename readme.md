@@ -1,7 +1,7 @@
 Firstly, you need to execute that commands:
 
 chmod +x requirements.sh
-./requirements.sh
+./requirements.sh &&
 chmod +x main.sh
 
 and than you can execute the program:
