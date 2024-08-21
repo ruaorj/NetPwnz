@@ -14,12 +14,13 @@ If you want to learn more about how to use it, you can follow my channel
 
 <hr>
 
-![Screenshot at 2024-08-13 16-31-02](https://github.com/user-attachments/assets/44f4ef06-6d94-4d4c-a0fa-30a74ba413e0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44f4ef06-6d94-4d4c-a0fa-30a74ba413e0" alt="Screenshot at 2024-08-13 16-31-02">
+</p>
 
 <hr>
 
 
-You can contact me if you have any problems with the tool or if you have any questions
 ### Find Me on:
 <p align="left">
   <a href="https://linktr.ee/Mass4cre_P0int" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
